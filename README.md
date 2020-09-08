@@ -56,7 +56,7 @@
 
   ### Repository
 
-  - [Github]()
+  - [Github](https://github.com/EMackPierre/Workout-Tracker)
   - [Heroku]()
 
   ### Questions
