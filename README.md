@@ -41,11 +41,14 @@
 
   ### App Screen Shots
 
-  ![Photo]()   
+  ![Photo](./assets/WorkoutTracker-Pic1.PNG)
+  ![Photo](./assets/WorkoutTracker-Pic2.PNG)
+  ![Photo](./assets/WorkoutTracker-Pic3.PNG)
+  ![Photo](./assets/WorkoutTracker-Pic4.PNG)
   
   ### Contributors
 
-  Independent Homework
+  ![GitHub license](https://img.shields.io/badge/Made%20by-%40EMackPierre-blue)
 
   ### License
 
